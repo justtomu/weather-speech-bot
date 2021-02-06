@@ -3,11 +3,25 @@
 
 # Установка
 
+<code>
 pip install beautifulsoup4
+  </code>
+<code>
 pip install pytelegrambotapi
+  </code>
+<code>
 pip install requests
-nano config.py -> token = 'your_token'
+  </code>
+<code>
+nano config.py
+  </code>
+  
+Написать
+<code>
+token = 'your_token'
+  </code>
 
 # Запуск
-
+<code>
 python main.py
+  </code>
