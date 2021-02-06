@@ -30,4 +30,4 @@ python main.py
   </code>
   
 # example
-<a href='https://t.me/weather_speech_bot'<click></a>
+<a href='https://t.me/weather_speech_bot'>click</a>
