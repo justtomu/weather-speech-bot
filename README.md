@@ -6,17 +6,21 @@
 <code>
 pip install beautifulsoup4
   </code>
+  
 <code>
 pip install pytelegrambotapi
   </code>
+  
 <code>
 pip install requests
   </code>
+  
 <code>
 nano config.py
   </code>
   
 Написать
+
 <code>
 token = 'your_token'
   </code>
